@@ -1,0 +1,19 @@
+{
+    "hexn": {
+        "freeTrial":[
+            {
+                "key": "123",
+                "isExpied": false,
+                "activeTime": "",
+                "owner": "@"
+            }
+        ],
+        "paid":[
+            {
+                "key": "123",
+                "activeTime": "",
+                "owner": "@"
+            }
+        ]
+    }
+}
